@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main_section{
+  background-color: rgb(223, 89, 89);
+  padding: 2em;
+}   
+.sub_main{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  background-color: burlywood;
+  padding: 2em;
+}
